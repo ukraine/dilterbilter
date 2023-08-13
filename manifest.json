@@ -1,0 +1,22 @@
+{
+   "manifest_version": 3,
+   "name": "DilterBilter - ChatGPT Conversation Search",
+   "description": "DilterBilter, a History Conversation Filter, quickly searches and filters your chatGPT chats history",
+   "version": "1.06",
+   "permissions": ["activeTab", "scripting"],
+   "action": {
+        "default_icon": {
+            "16": "icon-active.png",
+            "48": "icon-inactive-48.png",
+            "128": "icon-active.png"
+        }
+    },
+   "background": {
+        "service_worker": "background.js"
+    },
+   "icons": {
+        "16": "icon-active.png",
+        "48": "icon-active-48.png",
+        "128": "icon-active.png"
+    }
+}

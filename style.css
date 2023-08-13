@@ -1,0 +1,14 @@
+#inputFilter {
+    margin: 12px 0px 5px;
+    padding: 4px 6px;
+    font-size: 90%;
+    border-radius: 4px;
+    border-width: 1px 2px 2px 1px;
+    background-color: #40414f;
+    outline: 0px !important;
+}
+
+#attributionId {
+   margin-right: 6px !important;
+   font-size: 70%;
+}
