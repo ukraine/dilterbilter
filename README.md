@@ -6,3 +6,5 @@ https://chrome.google.com/webstore/detail/dilterbilter-chatgpt-conv/lbdcfmlpnien
 
 Mozilla Firefox
 https://addons.mozilla.org/en-CA/firefox/addon/dilterbilter-chatgpt-search/
+
+License: GNU GENERAL PUBLIC LICENSE, Version 3, 29 June 2007
